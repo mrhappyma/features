@@ -7,7 +7,7 @@ A magnificent app that corrects errors in previous console commands
 
 ```json
 "features": {
-    "ghcr.io/mrhappyma/features/thefuck:0": {
+    "ghcr.io/mrhappyma/features/thefuck:3": {
         "version": "latest"
     }
 }
