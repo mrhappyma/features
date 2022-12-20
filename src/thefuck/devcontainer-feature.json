@@ -2,5 +2,5 @@
   "name": "The Fuck",
   "id": "thefuck",
   "version": "3.0.0",
-  "description": "A magnificent app that corrects errors in previous console commands"
+  "description": "A magnificent app that corrects errors in previous console commands. Installs via apt and pip."
 }
